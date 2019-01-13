@@ -16,4 +16,4 @@ General Information:
 - .ipa needs to be signed with a dev cert or using cydia impactor (http://www.cydiaimpactor.com)
 - on a jailbroken iOS, you can use ReProvision to resign it automaticly
 
-Full credits go to Andoma - the creator of Movian. I did not change or add any functionality to Movian.
+full credits go to Andoma - the creator of Movian. i did not change anything in the source code of Movian.
